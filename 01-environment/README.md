@@ -52,5 +52,13 @@ CPU,GPU 관련 상대 속도의 개요:
 
 이 diagram 의 상세 부분은 다음 시간에 알아보도록 하겠습니다.
 
+**Jupyter Lab 에서 GPU를사용 못할 경우:**
+
+![](assets/no-cuda.png)
+
+**GPU 사용 가능할 경우**
+
+![](assets/yes-cuda.png)
+
 
 
