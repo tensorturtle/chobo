@@ -20,10 +20,13 @@
 
 ![](assets/clone-tensorturtle-chobo.png)
 
+**"Local Path"에 보이는 위치에 내용이 다운로드 됩니다. Jupyter Lab에서 왼쪽 탐색기로 그 위치로 찾아 가세요.**
+
 ![](assets/git-fetch-origin.png)
 
 ## 진도 리뷰 
 
+<<<<<<< HEAD
 이제 파이썬 & 파이토치로 딥러닝을 배우고 응용할 아주 최소한의 셋업이 완성되었습니다. 
 
 Jupyter Lab은 내부적으로 이런 구조를 가지고 있습니다:
@@ -78,6 +81,12 @@ ssh -p [외부 포트 포워딩 포트 번호] -NfL localhost:8888:localhost:888
 
 
 ## GPU 활용 가능한 Jupyter Notebook 셋업하기
+=======
+이제 파이썬 & 파이토치로 딥러닝을 배우고 응용할 최소한의 셋업이 완성되었습니다. 
+
+
+그러나, 이 환경에서는 GPU 활용을 못합니다. (CPU보다 10배 빠름)
+>>>>>>> 11729773286ee4aac74ef8eaa7bc95971c6da6c4
 
 
 
