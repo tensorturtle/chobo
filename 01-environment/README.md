@@ -83,6 +83,8 @@ ssh -p [외부 포트 포워딩 포트 번호] -NfL localhost:8888:localhost:888
 를 치고, 웹 브라우저에서 `localhost:8888` 로 가면 GPU를 GPU가 없는 컴퓨터에서도 사용할 수 있습니다.
 
 
-여기서 부터는 `.ipynb` 확장자를 가진 Jupyter Notebook파일을 통해 학습을 진행합니다.
+# 마무리
+
+다음시간 부터는 `.ipynb` 확장자를 가진 Jupyter Notebook파일을 통해 학습을 진행합니다.
 
 [다음 주제 (파이토치와 GPU) 가기](about-gpu.ipynb)
