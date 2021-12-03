@@ -58,6 +58,8 @@
 
 **GPU 사용 가능할 경우**
 
+`!nvidia-smi` shell command를 통해 설치된 GPU 
+
 ![](assets/yes-cuda.png)
 
 
