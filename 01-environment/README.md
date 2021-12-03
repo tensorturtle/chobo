@@ -20,6 +20,8 @@
 
 ![](assets/clone-tensorturtle-chobo.png)
 
+**"Local Path"에 보이는 위치에 내용이 다운로드 됩니다. Jupyter Lab에서 왼쪽 탐색기로 그 위치로 찾아 가세요.**
+
 ![](assets/git-fetch-origin.png)
 
 ## 진도 리뷰 
