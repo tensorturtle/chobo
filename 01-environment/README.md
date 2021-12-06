@@ -12,21 +12,11 @@
 
 ## GitHub에서 자료 다운받기 
 
-[desktop.github.com](https://desktop.github.com)
+Code > Download ZIP 버튼으로 이 repository를 내 컴퓨터로 다운받기.
 
-![](assets/github-desktop-download.png)
+![](assets/download-zip.png)
 
-![](assets/github-desktop-clone.png)
-
-![](assets/clone-tensorturtle-chobo.png)
-
-**"Local Path"에 보이는 위치에 내용이 다운로드 됩니다. Jupyter Lab에서 왼쪽 탐색기로 그 위치로 찾아 가세요.**
-
-![](assets/git-fetch-origin.png)
-
-`Fetch Origin` 을 누르면 최신 교제로 업데이트 됩니다.
-
-`Commit to main`은 누르지 마세요. 교제를 바꿀 권한이 없기 때문에 기능 
+다운 받은 파일 압축 해제하기.
 
 ## 진도 리뷰 
 
